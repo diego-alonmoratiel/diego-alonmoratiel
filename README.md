@@ -8,6 +8,7 @@
 
 [![Email](https://img.shields.io/badge/alonmoratiel01%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alonmoratiel01@gmail.com)
 [![GitHub](https://img.shields.io/badge/diego--alonmoratiel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/diego-alonmoratiel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diego--alonso--moratiel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alonso-moratiel)
 ![Location](https://img.shields.io/badge/Valladolid%2C%20Spain-2ea44f?style=flat-square&logo=googlemaps&logoColor=white)
 ![Open to](https://img.shields.io/badge/Open%20to-Cloud%20%2F%20Platform%20roles%20in%20DACH-0A66C2?style=flat-square)
 
