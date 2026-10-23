@@ -97,6 +97,7 @@ Most of what I build starts with a small, cheap piece of hardware and a question
 I'm open to Cloud / Platform / DevOps / AI-infrastructure roles across DACH — happy to talk in English or Spanish.
 
 [![Get in touch](https://img.shields.io/badge/Get%20in%20touch-alonmoratiel01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alonmoratiel01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alonso-moratiel)
 
 <sub>Valladolid, Spain · CET / CEST</sub>
 
